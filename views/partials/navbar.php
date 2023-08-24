@@ -19,16 +19,16 @@
                     <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/soluciones">Nuestras soluciones</a>
                 </li>
                 <li class="mx-2 my-2">
-                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Calculadora</a>
+                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/#calculadora">Calculadora</a>
                 </li>
                 <li class="mx-2 my-2">
-                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Faq</a>
+                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/faq">Faq</a>
                 </li>
                 <li class="mx-2 my-2">
                     <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Vacantes</a>
                 </li>
                 <li class="mx-2 my-2">
-                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Blog</a>
+                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/blog">Blog</a>
                 </li>
                 <li class="mx-2 my-2">
                     <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Real estate</a>
@@ -70,16 +70,16 @@
                     <a class="a--white" href="<?php echo __ROOT__; ?>/soluciones">Nuestras soluciones</a>
                 </li>
                 <li class="my-2">
-                    <a class="a--white" href="<?php echo __ROOT__; ?>">Calculadora</a>
+                    <a class="a--white" href="<?php echo __ROOT__; ?>/#calculadora">Calculadora</a>
                 </li>
                 <li class="my-2">
-                    <a class="a--white" href="<?php echo __ROOT__; ?>">Faq</a>
+                    <a class="a--white" href="<?php echo __ROOT__; ?>/faq">Faq</a>
                 </li>
                 <li class="my-2">
                     <a class="a--white" href="<?php echo __ROOT__; ?>">Vacantes</a>
                 </li>
                 <li class="my-2">
-                    <a class="a--white" href="<?php echo __ROOT__; ?>">Blog</a>
+                    <a class="a--white" href="<?php echo __ROOT__; ?>/blog">Blog</a>
                 </li>
                 <li class="my-2">
                     <a class="a--white" href="<?php echo __ROOT__; ?>">Real estate</a>

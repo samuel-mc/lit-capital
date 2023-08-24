@@ -46,7 +46,7 @@
             </div>
         </div>
     </section>
-    <section class="mw--1440 bg--medium-blue p-4">
+    <section class="mw--1440 bg--medium-blue p-4" id="calculadora">
         <h2 class="text--2xl text--white text-center">Nuestra calculadora</h2>
     </section>
     <section class="mw--1440 p-5 ">
