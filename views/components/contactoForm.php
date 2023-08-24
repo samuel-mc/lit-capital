@@ -1,4 +1,4 @@
-<section class="w--50 p-4">
+<section class="w--50 px-4 py-5">
     <div class="text-center mb-5">
         <h2 class="text--2xl text--dark-blue mb-2">Contacto</h2>
         <p class="text--sm text--grey">
