@@ -46,7 +46,9 @@
     </section>
     <section class="mw--1440 bg--medium-blue p-4">
         <h2 class="text--2xl text--white text-center">Nuestra calculadora</h2>
-
+    </section>
+    <section class="mw--1440 p-5 ">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Cnpar6QzToE3O4GMpQ2bd?utm_source=generator&theme=0" width="100%" height="320" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </section>
 </main>
 <?php include 'partials/footer.php'; ?>
