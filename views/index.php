@@ -13,7 +13,7 @@
         <div class="grid--2cols align-items-center gap--24">
             <div class="text--white">
                 <h2 class="text--2xl">Quienes somos</h2>
-                <p class="text-sm my-3">
+                <p class="text-sm my-5">
                     Lorem ipsum dolor sit amet consectetur adipiscing eli mattis sit phasellus mollis sit aliquam sit nullam.
                 </p>
                 <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light py-3 px-4">
@@ -32,15 +32,17 @@
             </div>
             <div class="text--white">
                 <h2 class="text--2xl">Nuestras soluciones</h2>
-                <p class="text-sm my-3">
+                <p class="text-sm my-5">
                     Lorem ipsum dolor sit amet consectetur adipiscing eli mattis sit phasellus mollis sit aliquam sit nullam.
                 </p>
-                <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light py-3 px-4">
-                    Conoce más
-                </a>
-                <a href="<?php echo __ROOT__; ?>/contacto" class="a--white py-3 px-4">
-                    Habla con un asesor <i class="fa-solid fa-arrow-right"></i>
-                </a>
+                <div class="d-flex flex-wrap">
+                    <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light py-3 px-4">
+                        Conoce más
+                    </a>
+                    <a href="<?php echo __ROOT__; ?>/contacto" class="a--white py-3 px-4">
+                        Habla con un asesor <i class="fa-solid fa-arrow-right"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
@@ -50,5 +52,8 @@
     <section class="mw--1440 p-5 ">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Cnpar6QzToE3O4GMpQ2bd?utm_source=generator&theme=0" width="100%" height="320" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </section>
+
+    <?php include 'components/contacto.php'; ?>
+
 </main>
 <?php include 'partials/footer.php'; ?>

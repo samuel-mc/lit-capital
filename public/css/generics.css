@@ -3,6 +3,7 @@
     --medium-blue: #3E5E8C;
     --light-blue: #77B0D2;
     --grey: #637381;
+    --white-input: #F9F9FF;
 
     --text-xs: 12px;
     --text-sm: 16px;
@@ -47,6 +48,10 @@
 
 .text--grey {
     color: var(--grey);
+}
+
+.text--dark-blue {
+    color: var(--dark-blue);
 }
 
 .a--white {
