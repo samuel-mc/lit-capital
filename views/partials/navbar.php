@@ -16,7 +16,7 @@
                     <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/about">Quienes somos</a>
                 </li>
                 <li class="mx-2 my-2">
-                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Nuestras soluciones</a>
+                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/soluciones">Nuestras soluciones</a>
                 </li>
                 <li class="mx-2 my-2">
                     <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Calculadora</a>
@@ -67,7 +67,7 @@
                     <a class="a--white" href="<?php echo __ROOT__; ?>/about">Quienes somos</a>
                 </li>
                 <li class="my-2">
-                    <a class="a--white" href="<?php echo __ROOT__; ?>">Nuestras soluciones</a>
+                    <a class="a--white" href="<?php echo __ROOT__; ?>/soluciones">Nuestras soluciones</a>
                 </li>
                 <li class="my-2">
                     <a class="a--white" href="<?php echo __ROOT__; ?>">Calculadora</a>

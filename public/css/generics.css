@@ -149,6 +149,11 @@
     width: 480px;
 }
 
+.mw--280 {
+    max-width: 280px;
+    margin: 0 auto;
+}
+
 .mw-400 {
     max-width: 400px;
     margin: 0 auto;
