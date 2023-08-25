@@ -25,7 +25,7 @@
                     <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/faq">Faq</a>
                 </li>
                 <li class="mx-2 my-2">
-                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>">Vacantes</a>
+                    <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/vacantes">Vacantes</a>
                 </li>
                 <li class="mx-2 my-2">
                     <a class="a--<?php echo $navClass ?>" href="<?php echo __ROOT__; ?>/blog">Blog</a>
@@ -76,7 +76,7 @@
                     <a class="a--white" href="<?php echo __ROOT__; ?>/faq">Faq</a>
                 </li>
                 <li class="my-2">
-                    <a class="a--white" href="<?php echo __ROOT__; ?>">Vacantes</a>
+                    <a class="a--white" href="<?php echo __ROOT__; ?>/vacantes">Vacantes</a>
                 </li>
                 <li class="my-2">
                     <a class="a--white" href="<?php echo __ROOT__; ?>/blog">Blog</a>

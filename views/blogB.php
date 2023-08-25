@@ -6,7 +6,72 @@
     </section>
     <section class="mw--1440 p-4">
         <div class="blog__content">
-            <main class="blog__entries"></main>
+            <main class="blog__entries">
+                <div class="blog__entry">
+                    <img src="<?php echo __ROOT__; ?>/public/img/blog/imgPlaceholder.png" class="w-100">
+                    <div>
+                        <span class="blog__entry--cat">Categoría</span>
+                        <h4 class="my-3 text--md text--dark-blue">Título</h4>
+                        <p class="text--sm text--grey">
+                            Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.
+                        </p>
+                        <div class="w-100 d-flex justify-content-end">
+                            <a href="#" class="a--dark-blue">
+                                <span>Leer más</span>
+                                <i class="fas fa-chevron-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog__entry">
+                    <img src="<?php echo __ROOT__; ?>/public/img/blog/imgPlaceholder.png" class="w-100">
+                    <div>
+                        <span class="blog__entry--cat">Categoría</span>
+                        <h4 class="my-3 text--md text--dark-blue">Título</h4>
+                        <p class="text--sm text--grey">
+                            Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.
+                        </p>
+                        <div class="w-100 d-flex justify-content-end">
+                            <a href="#" class="a--dark-blue">
+                                <span>Leer más</span>
+                                <i class="fas fa-chevron-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog__entry">
+                    <img src="<?php echo __ROOT__; ?>/public/img/blog/imgPlaceholder.png" class="w-100">
+                    <div>
+                        <span class="blog__entry--cat">Categoría</span>
+                        <h4 class="my-3 text--md text--dark-blue">Título</h4>
+                        <p class="text--sm text--grey">
+                            Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.
+                        </p>
+                        <div class="w-100 d-flex justify-content-end">
+                            <a href="#" class="a--dark-blue">
+                                <span>Leer más</span>
+                                <i class="fas fa-chevron-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog__entry">
+                    <img src="<?php echo __ROOT__; ?>/public/img/blog/imgPlaceholder.png" class="w-100">
+                    <div>
+                        <span class="blog__entry--cat">Categoría</span>
+                        <h4 class="my-3 text--md text--dark-blue">Título</h4>
+                        <p class="text--sm text--grey">
+                            Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.
+                        </p>
+                        <div class="w-100 d-flex justify-content-end">
+                            <a href="#" class="a--dark-blue">
+                                <span>Leer más</span>
+                                <i class="fas fa-chevron-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </main>
             <aside class="blog__sidebar">
                 <div class="my-4">
                     <h3 class="mb-3">Lo más visto</h3>
