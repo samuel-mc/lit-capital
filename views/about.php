@@ -62,9 +62,14 @@
             </div>
         </main>
     </section>
-    <section class="mw--1440 p-4">
 
-    </section>
+ 
+    <?php include 'components/nuestroEquipo.php'; ?>
+
+    
+    <?php include 'components/oficinas.php'; ?>
+
+
     <?php include 'components/contactoForm.php'; ?>
 </main>
 <?php include 'partials/footer.php'; ?>

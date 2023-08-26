@@ -52,16 +52,16 @@
 
     <section class="mw--1440 p-4" id="lineaTiempo">
         <h2 class="text--2xl text-center">Línea del tiempo</h2>
-        <div id="lineaTiempo" class="carousel carousel-dark slide" data-ride="carousel">
+        <div id="carouselLineaTiempo" class="carousel carousel-dark slide" data-ride="carousel">
             <ol class="carousel-indicators">
-                <a class="carousel-control-prev" style="background-color: #DBDBDB;" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <a class="carousel-control-prev" style="background-color: #DBDBDB;" href="#carouselLineaTiempo" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" style="background-color: #DBDBDB;" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1" style="background-color: #DBDBDB;" ></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2" style="background-color: #DBDBDB;"></li>
-                <a class="carousel-control-next" style="background-color: #DBDBDB;"  href="#carouselExampleIndicators" role="button" data-slide="next">
+                <li data-target="#carouselLineaTiempo" data-slide-to="0" style="background-color: #DBDBDB;" class="active"></li>
+                <li data-target="#carouselLineaTiempo" data-slide-to="1" style="background-color: #DBDBDB;" ></li>
+                <li data-target="#carouselLineaTiempo" data-slide-to="2" style="background-color: #DBDBDB;"></li>
+                <a class="carousel-control-next" style="background-color: #DBDBDB;"  href="#carouselLineaTiempo" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
@@ -105,113 +105,7 @@
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Cnpar6QzToE3O4GMpQ2bd?utm_source=generator&theme=0" width="100%" height="320" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </section>
 
-    <section class="mw--1440 p--container">
-        <h2 class="text--2xl text-center">Oficinas</h2>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21112.7437802874!2d-103.39985272652096!3d20.700432983801974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428af02a12f0407%3A0x3528adfe5a1062e6!2sLIT%20Investment%20Center!5e0!3m2!1ses-419!2smx!4v1692991209907!5m2!1ses-419!2smx" style="border:0; height:520px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-100"></iframe>
-        <div class="grid--5cols text--grey">
-            <div class="p-4">
-                <h2 class="text-center text-dark">Guadalajara</h2>
-                <div>
-                    <i class="fa-solid fa-envelope"></i>
-                    <spam>contacto@lit.com</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-phone"></i>
-                    <spam>(123) 456 - 789</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-location-dot"></i>
-                    <spam>1334 calle, colonia, ciudad, país</spam>
-                </div>
-                <div class="text-center">
-                    <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light btn--darkBlue">
-                        Ver en el mapa
-                    </a>
-                </div>
-            </div>
-            <div class="p-4">
-                <h2 class="text-center text-dark">CDMX</h2>
-                <div>
-                    <i class="fa-solid fa-envelope"></i>
-                    <spam>contacto@lit.com</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-phone"></i>
-                    <spam>(123) 456 - 789</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-location-dot"></i>
-                    <spam>1334 calle, colonia, ciudad, país</spam>
-                </div>
-                <div class="text-center">
-                    <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light btn--darkBlue">
-                        Ver en el mapa
-                    </a>
-                </div>
-            </div>
-            <div class="p-4">
-                <h2 class="text-center text-dark">Mérida</h2>
-                <div>
-                    <i class="fa-solid fa-envelope"></i>
-                    <spam>contacto@lit.com</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-phone"></i>
-                    <spam>(123) 456 - 789</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-location-dot"></i>
-                    <spam>1334 calle, colonia, ciudad, país</spam>
-                </div>
-                <div class="text-center">
-                    <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light btn--darkBlue">
-                        Ver en el mapa
-                    </a>
-                </div>
-            </div>
-            <div class="p-4">
-                <h2 class="text-center text-dark">Quéretaro</h2>
-                <div>
-                    <i class="fa-solid fa-envelope"></i>
-                    <spam>contacto@lit.com</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-phone"></i>
-                    <spam>(123) 456 - 789</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-location-dot"></i>
-                    <spam>1334 calle, colonia, ciudad, país</spam>
-                </div>
-                <div class="text-center">
-                    <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light btn--darkBlue">
-                        Ver en el mapa
-                    </a>
-                </div>
-            </div>
-            <div class="p-4">
-                <h2 class="text-center text-dark">Mexicalli</h2>
-                <div>
-                    <i class="fa-solid fa-envelope"></i>
-                    <spam>contacto@lit.com</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-phone"></i>
-                    <spam>(123) 456 - 789</spam>
-                </div>
-                <div>
-                    <i class="fa-solid fa-location-dot"></i>
-                    <spam>1334 calle, colonia, ciudad, país</spam>
-                </div>
-                <div class="text-center">
-                    <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light btn--darkBlue">
-                        Ver en el mapa
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'components/oficinas.php'; ?>
 
     <?php include 'components/contactoForm.php'; ?>
 

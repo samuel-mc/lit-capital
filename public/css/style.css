@@ -148,6 +148,23 @@ html {
     border-bottom: none;
 }
 
+
+.carousel-indicators {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    height: 75px;
+    margin-top: 10px;
+}
+.carousel-indicators p.active,
+.carousel-indicators p.active:hover,
+.carousel-indicators p.active:focus {
+    background-color: var(--dark-blue);
+    color: var(--white-input)
+}
+
+
 @media (max-width: 990px) {
     .blog__content > .blog__entries {
         grid-column: 1 / 4;
@@ -155,6 +172,14 @@ html {
     
     .blog__content > .blog__sidebar {
         grid-column: 1 / 4;
+    }
+    .carousel-indicators {
+        display: none !important;
+        left: 0;
+        margin: 0  !important;
+        font-size: var(--text-sm);
+        overflow-x: scroll !important;
+        white-space: nowrap;
     }
 }
 
