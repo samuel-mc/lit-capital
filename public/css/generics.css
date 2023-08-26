@@ -3,6 +3,7 @@
     --medium-blue: #3E5E8C;
     --light-blue: #77B0D2;
     --grey: #637381;
+    --light-grey: #D4D2E3;
     --white-input: #F9F9FF;
 
     --text-xs: 12px;
@@ -98,6 +99,19 @@
 .bg--light-blue {
     background-color: var(--light-blue);
 }
+.btn {
+    border-radius: 10px;
+    padding: 2% 5%;
+    transition: all 0.5s ease-in-out;
+    text-decoration: none;
+    color: inherit; 
+}
+
+.btn:hover {
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
 
 .btn--darkBlue {
     background-color: var(--dark-blue) !important;
@@ -210,6 +224,11 @@
     height:80px !important; 
     width: 80px !important; 
     top:40% !important; 
+}
+
+.border--light-grey{
+    border: solid var(--light-grey);
+    border-radius: 10px;
 }
 
 

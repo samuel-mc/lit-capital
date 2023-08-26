@@ -89,17 +89,7 @@
         </div>
     </section>
 
-    <section class="mw--1440 position-relative">
-        <img src="<?php echo __ROOT__; ?>/public/img/home/hombreNegocios.png" class="w-100">
-        <div class="position-absolute" style="top: 10%; left: 60%; transform: translateX(-10%);">
-            <h2 class="text--white text--2xl ">Ponte en contacto con uno  de nuestros asesores</h2>
-            <a href="<?php echo __ROOT__; ?>/contacto" class="btn btn-light py-3 px-4">
-                Ponerme en contacto <i class="fa-solid fa-arrow-right"></i>
-            </a>
-        </div>
-    </section>
-
-
+    <?php include 'components/hombreNegocios.php'; ?>
 
     <section class="mw--1440 p-5 ">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Cnpar6QzToE3O4GMpQ2bd?utm_source=generator&theme=0" width="100%" height="320" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

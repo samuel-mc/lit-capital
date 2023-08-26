@@ -69,7 +69,8 @@
             </div>
         </div>
     </section>
-
+    
+    <?php include 'components/mujerNegocios.php'; ?>
     <?php include 'components/contactoForm.php'; ?>
 </main>
 <?php include 'partials/footer.php'; ?>

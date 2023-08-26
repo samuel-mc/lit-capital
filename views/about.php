@@ -62,10 +62,10 @@
             </div>
         </main>
     </section>
-
  
     <?php include 'components/nuestroEquipo.php'; ?>
 
+    <?php include 'components/nuestrosLogros.php'; ?>
     
     <?php include 'components/oficinas.php'; ?>
 
