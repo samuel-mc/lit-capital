@@ -14,7 +14,7 @@
                 <div class="d-flex flex-column">
                     <h3 class="text--xl">Título</h3>
                     <p>Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.</p>
-                    <a href="" class="btn ml-auto text-right">
+                    <a href="" class="ml-auto text-right a--dark-blue">
                         Leer más <i class="fa-solid fa-arrow-right mx-1"></i>
                     </a>
                 </div>
@@ -26,7 +26,7 @@
                 <div class="d-flex flex-column">
                     <h3 class="text--xl">Título</h3>
                     <p>Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.</p>
-                    <a href="" class="btn ml-auto text-right">
+                    <a href="" class="a--dark-blue ml-auto text-right">
                         Leer más <i class="fa-solid fa-arrow-right mx-1"></i>
                     </a>
                 </div>
@@ -38,7 +38,7 @@
                 <div class="d-flex flex-column">
                     <h3 class="text--xl">Título</h3>
                     <p>Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.</p>
-                    <a href="" class="btn ml-auto text-right">
+                    <a href="" class="a--dark-blue ml-auto text-right ">
                         Leer más <i class="fa-solid fa-arrow-right mx-1"></i>
                     </a>
                 </div>
@@ -50,7 +50,7 @@
                 <div class="d-flex flex-column">
                     <h3 class="text--xl">Título</h3>
                     <p>Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.</p>
-                    <a href="" class="btn ml-auto text-right">
+                    <a href="" class="a--dark-blue ml-auto text-right">
                         Leer más <i class="fa-solid fa-arrow-right mx-1"></i>
                     </a>
                 </div>
@@ -62,7 +62,7 @@
                 <div class="d-flex flex-column">
                     <h3 class="text--xl">Título</h3>
                     <p>Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.</p>
-                    <a href="" class="btn ml-auto text-right">
+                    <a href="" class="a--dark-blue ml-auto text-right">
                         Leer más <i class="fa-solid fa-arrow-right mx-1"></i>
                     </a>
                 </div>
@@ -74,7 +74,7 @@
                 <div class="d-flex flex-column">
                     <h3 class="text--xl">Título</h3>
                     <p>Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.</p>
-                    <a href="" class="btn ml-auto text-right">
+                    <a href="" class="a--dark-blue ml-auto text-right">
                         Leer más <i class="fa-solid fa-arrow-right mx-1"></i>
                     </a>
                 </div>

@@ -45,7 +45,7 @@ html {
     padding: 16px;
 }
 
-.input--group > input {
+.input--group > input, select, textarea {
     background-color: var(--white-input);
     border: none;
     padding: 16px 24px;

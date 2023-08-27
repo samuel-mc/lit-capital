@@ -99,6 +99,10 @@
 .bg--light-blue {
     background-color: var(--light-blue);
 }
+
+.bg--white-input {
+    background-color: var(--white-input);
+}
 .btn {
     border-radius: 10px;
     padding: 2% 5%;
@@ -136,6 +140,7 @@
     margin-top: 12px;
 }
 
+
 .grid--4cols {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -146,6 +151,10 @@
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 12px;
+}
+
+.grid{
+    display: grid;
 }
 
 .gap--24 {
