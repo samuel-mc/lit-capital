@@ -15,6 +15,9 @@ Flight::route('/', function () {
 Flight::route('/about', function () {
     Flight::render('about.php', array('title' => '¿Quiénes somos?', 'nav' => 'dark-blue'));
 });
+Flight::route('/aboutB', function () {
+    Flight::render('about.php', array('title' => '¿Quiénes somos? B', 'nav' => 'dark-blue'));
+});
 
 Flight::route('/soluciones', function () {
     Flight::render('soluciones.php', array('title' => 'Nuestras soluciones', 'nav' => 'dark-blue'));

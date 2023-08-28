@@ -69,7 +69,8 @@
                 </div>
             </div>
             <div class="input--group">
-                <input type="text" class="rounded-sm border-0 p-2 w-100" placeholder="Rázon social">
+                <label for="cv">Sube tu CV</label>
+                <input id="cv" type="file" class="rounded-sm border-0 p-2 w-100" placeholder="Rázon social">
             </div>
             <div class="input--group">
                 <label for="mensaje">Mensaje</label>
@@ -85,7 +86,6 @@
                 </ul>
             </div>
         </form>
-
     </section>
 
     <?php include 'components/oficinas.php'; ?>

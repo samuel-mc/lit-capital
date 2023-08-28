@@ -66,7 +66,7 @@
     <?php include 'components/nuestroEquipo.php'; ?>
     <?php include 'components/nuestrosLogros.php'; ?>
     <?php include 'components/oficinas.php'; ?>
-    <?php include 'components/hombreNegocios.php'; ?>
+    <?php include 'components/mujerNegocios.php'; ?>
     <?php include 'components/contactoForm.php'; ?>
 </main>
 <?php include 'partials/footer.php'; ?>
